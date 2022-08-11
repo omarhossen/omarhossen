@@ -1,6 +1,4 @@
-- 👋 Hi, I’m omar a Data Analyst who loves building data analysis reports
-     which give insights to the organization to make better decisions based on data analysis.
-     I perform data analysis with different programming languages, such as python and SQL. 
+- 👋 Hi, I’m omar a Data Analyst who loves building data analysis report. 
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data analysis projects ...
